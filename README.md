@@ -45,3 +45,7 @@ Don't forget to check out my socials and the technologies I use in my projects b
 </picture>
 
 ###
+
+<h3 data-importer="text" align="left">📌 Projects Ideas</h3>
+
+- [Basic HTML Website](https://roadmap.sh/projects/basic-html-website)
